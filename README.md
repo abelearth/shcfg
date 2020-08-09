@@ -1,0 +1,2 @@
+# shcfg
+Personal shell configuration.
